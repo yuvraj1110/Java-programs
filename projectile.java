@@ -8,6 +8,7 @@ package com.mycompany.shadow;
  *
  * @author KIIT
  */
+// Java porgram to find scientific calculations:
 import java.util.Scanner;
 import java.util.*;
 public class main {
